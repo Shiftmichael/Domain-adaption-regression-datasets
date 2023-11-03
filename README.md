@@ -5,5 +5,6 @@
 - 可对标签数据进行归一化处理，即减去minlabel再除以maxlabeldifference
 - 下载链接如下： 
 ```
-
+链接：https://pan.baidu.com/s/1lwVxjss5rWA1iMcBC-6IMw 
+提取码：DAOT 
 ```
